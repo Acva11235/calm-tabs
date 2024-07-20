@@ -1,4 +1,4 @@
-# 🍃 Calm Tabs
+# 🍃 Calm Tabs - Reducing chaos
 
 ## ⚡ Overview
 **Calm Tabs** is a Chrome extension designed to enhance your study or work environment by managing audio playback across multiple browser tabs. When you are watching a video in one tab, this extension automatically pauses the music playing in another tab to ensure an uninterrupted focus experience. Once you stop the video, the music resumes, providing a seamless and distraction-free environment.
