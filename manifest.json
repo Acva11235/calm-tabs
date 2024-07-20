@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Calm Tabs",
     "description": "Controls music playback when watching other videos on YouTube.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "permissions": [
         "tabs",
         "activeTab"
@@ -17,6 +17,10 @@
         }
     ],
     "action": {
-        "default_popup": "popup.html"
+        "default_popup": "popup.html",
+        "default_icon": "logo_display.png"
+    },
+    "icons": {
+        "128": "logo_display.png"
     }
 }
