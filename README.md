@@ -10,13 +10,13 @@ Its like having a personal DJ who knows when to stop!
 
 1. **Music Tab Identification**
 
-- Hit that magical button in the extension popup to mark a tab as your “Music Tab.” Think of it as giving your music a VIP pass.
-- This tab will be watched over like a hawk—any video that plays on other tabs will trigger a musical pause.
+   - Hit that magical button in the extension popup to mark a tab as your “Music Tab.” Think of it as giving your music a VIP pass.
+   - This tab will be watched over like a hawk—any video that plays on other tabs will trigger a musical pause.
 
 2. **Video State Spy**
 
-- Calm Tabs is always on the lookout for videos that start playing. When it sees one, it whispers to your music tab, “Shh, the video’s on!”
-- When the video gets bored and pauses, it gives the green light for the music to resume, ensuring your jams are only paused for as long as the video is.
+   - Calm Tabs is always on the lookout for videos that start playing. When it sees one, it whispers to your music tab, “Shh, the video’s on!”
+   - When the video gets bored and pauses, it gives the green light for the music to resume, ensuring your jams are only paused for as long as the video is.
 
 ## 💻 Installation and Usage
 
