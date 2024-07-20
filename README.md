@@ -20,9 +20,20 @@ Its like having a personal DJ who knows when to stop!
 
 ## 💻 Installation and Usage
 
-1. Load the Extension: [Link will be updated soon]
-2. Click the extension icon in your Chrome toolbar.
-3. Hit the “Set as Music Tab” button to designate your current tab as the music maestro.
+[Link will be updated soon]
+
+1. Clone this repo in into a folder called **"calm_tabs"**.
+   ```bash
+   git clone https://github.com/yourusername/calm-tabs.git
+   cd calm-tabs
+   ```
+2. Load the Extension:
+   - Open Chrome and navigate to chrome://extensions/.
+   - Flip the “Developer mode” switch (you’re now a dev wizard!).
+   - Click “Load unpacked” and select the calm-tabs folder. Voilà!
+3. Set It and Forget It:
+   - Click the extension icon in your Chrome toolbar.
+   - Hit the “Set as Music Tab” button to designate your current tab as the music maestro.
    
 Sit back and enjoy your perfectly synchronized audio-visual experience. Your ears (and brain) will thank you!
 
